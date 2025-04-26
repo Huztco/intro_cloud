@@ -63,8 +63,15 @@ Quanto antes adotar medidas de governança, melhor gerido será sua experiência
     
   - Criando uma máquina virtual 
     - Neste passo a passo, será configurado uma máquina virtual simples;
-      - Passo 1: No menu lateral, acessar a opção "Maquinas Virtuais
-
+      - Passo 1: No menu lateral, acessar a opção "Maquinas Virtuais";
+      - Passo 2: Localizar o botão "+ Criar";
+      - Passo 3: Clicar em "Máquina virtual do Azure";
+      - Passo 4: Na tela "Criar uma máquina virtual" e na guia "Básico" é possível definir em qual assinatura será atrelado os custos de uso da máquina virtual. Já nesta guia (e nas demais também) é possível solicitar suporte do Copilot para definir melhores configurações baseando em seu uso, inclusive uma máquina virtual de baixo custo. Selecione com atenção os recursos, região, disponibilidade entre outros são considerados no valor final que pode ser observado em um resumo no lado direito da tela.
+      - Passo 5: Preenchendo as informações básicas na guia "Básico", podemos concluir clicando em "Revisar + Criar", pois as configuração são escolhidas como as mais básicas.
+      - Passo 6: Na guia "Revisar + Criar" é possível revisar a configuração escolhida junto com o custo mensal estimado.
+      - Passo 7: Ao clicar em "Criar", é apresentado um pop-up com a opção de gerar um novo par de chaves, onde você pode baixar chave privada e criar recurso ou retornar para criar uma máquina virtual, se optar selecionar a primeira opção será baixado um arquivo .pem contendo a sua chave ssh.
+      - Passo 8: Após o download da chave ssh, o azure irá implementar sua máquina virtual com a opção de ir para o "Ir para o recurso" ou "Criar outra VM"
+      - Passo 9: Clicando em "Ir para o recurso" você será encaminhado para a tela "Visão geral" onde é possível verificar as configurações da VM também nota-se que a VM está em execução e no menu lateral vemos as demais opções de configuração da máquina virtual.
 
 
 
