@@ -61,8 +61,9 @@ Quanto antes adotar medidas de governança, melhor gerido será sua experiência
   -  Conta com pagamento conforme o uso (gerenciabilidade)
       Ideal para clientes que necessitam criar cargas de trabalho.
     
-    
-
+  - Criando uma máquina virtual 
+    - Neste passo a passo, será configurado uma máquina virtual simples;
+      - Passo 1: No menu lateral, acessar a opção "Maquinas Virtuais
 
 
 
